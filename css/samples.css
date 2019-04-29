@@ -1,0 +1,24 @@
+#splashBody{
+	background-color: black;
+}
+
+#logo-image{
+	width: 800px;
+	padding-top: 100px;
+	margin: 0 auto;
+}
+
+#full-logo{
+	max-width: 800px;
+	text-align: center;
+}
+
+#lightbox{
+	top 0;
+	left 0;
+	width: 100%;
+	height: 100%;
+	background:url(C:/Users/jakeg/Documents/working-dir/javascript-samples/img/overlay.png) repeat;
+	text-align: center;
+	visibility: false;
+}
